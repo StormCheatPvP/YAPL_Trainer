@@ -6,7 +6,7 @@ $Echo
 #msKoGaMa
 //start//
 learn.DocumentStart
-box.Options{English
+box{English
  Portuguese PT
  Portuguese PT-BR
  Deutsch
