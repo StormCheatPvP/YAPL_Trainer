@@ -1,2 +1,2 @@
 # YAPL_Trainer
-New cheat of KoGaMa Launcher
+New cheat of KoGaMa Web Version
