@@ -5,14 +5,14 @@ $Echo
 #msmn12
 #msKoGaMa
 //start//
-learn.DocumentStart
+learn
 box{English
  Portuguese PT
  Portuguese PT-BR
  Deutsch
 }
 
-element.ButtonCreat{
+aways.Button{
    Start
 }
 
